@@ -1,0 +1,15 @@
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\bin\Debug\net7.0\Selection_sort.exe
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\bin\Debug\net7.0\Selection_sort.deps.json
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\bin\Debug\net7.0\Selection_sort.runtimeconfig.json
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\bin\Debug\net7.0\Selection_sort.dll
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\bin\Debug\net7.0\Selection_sort.pdb
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\Selection_sort.csproj.AssemblyReference.cache
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\Selection_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\Selection_sort.AssemblyInfoInputs.cache
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\Selection_sort.AssemblyInfo.cs
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\Selection_sort.csproj.CoreCompileInputs.cache
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\Selection_sort.dll
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\refint\Selection_sort.dll
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\Selection_sort.pdb
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\Selection_sort.genruntimeconfig.cache
+D:\Algorithm_practice\practice\sort\Selection\Selection_sort\Selection_sort\obj\Debug\net7.0\ref\Selection_sort.dll

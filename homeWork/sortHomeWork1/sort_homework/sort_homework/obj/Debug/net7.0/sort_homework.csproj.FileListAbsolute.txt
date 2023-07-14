@@ -1,0 +1,15 @@
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\sort_homework.csproj.AssemblyReference.cache
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\sort_homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\sort_homework.AssemblyInfoInputs.cache
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\sort_homework.AssemblyInfo.cs
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\sort_homework.csproj.CoreCompileInputs.cache
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\bin\Debug\net7.0\sort_homework.exe
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\bin\Debug\net7.0\sort_homework.deps.json
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\bin\Debug\net7.0\sort_homework.runtimeconfig.json
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\bin\Debug\net7.0\sort_homework.dll
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\bin\Debug\net7.0\sort_homework.pdb
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\sort_homework.dll
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\refint\sort_homework.dll
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\sort_homework.pdb
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\sort_homework.genruntimeconfig.cache
+D:\Algorithm_practice\homeWork\sortHomeWork1\sort_homework\sort_homework\obj\Debug\net7.0\ref\sort_homework.dll

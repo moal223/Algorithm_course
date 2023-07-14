@@ -1,0 +1,15 @@
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\bin\Debug\net7.0\practiceSorte.exe
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\bin\Debug\net7.0\practiceSorte.deps.json
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\bin\Debug\net7.0\practiceSorte.runtimeconfig.json
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\bin\Debug\net7.0\practiceSorte.dll
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\bin\Debug\net7.0\practiceSorte.pdb
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\practiceSorte.csproj.AssemblyReference.cache
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\practiceSorte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\practiceSorte.AssemblyInfoInputs.cache
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\practiceSorte.AssemblyInfo.cs
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\practiceSorte.csproj.CoreCompileInputs.cache
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\practiceSorte.dll
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\refint\practiceSorte.dll
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\practiceSorte.pdb
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\practiceSorte.genruntimeconfig.cache
+D:\Algorithm_practice\practice\sort\practiceSorte\practiceSorte\obj\Debug\net7.0\ref\practiceSorte.dll

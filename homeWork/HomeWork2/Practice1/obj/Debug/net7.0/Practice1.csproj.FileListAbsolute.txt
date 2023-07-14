@@ -1,0 +1,15 @@
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\Practice1.csproj.AssemblyReference.cache
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\Practice1.AssemblyInfoInputs.cache
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\Practice1.AssemblyInfo.cs
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\Practice1.csproj.CoreCompileInputs.cache
+D:\Algorithm_practice\HomeWork2\Practice1\bin\Debug\net7.0\Practice1.exe
+D:\Algorithm_practice\HomeWork2\Practice1\bin\Debug\net7.0\Practice1.deps.json
+D:\Algorithm_practice\HomeWork2\Practice1\bin\Debug\net7.0\Practice1.runtimeconfig.json
+D:\Algorithm_practice\HomeWork2\Practice1\bin\Debug\net7.0\Practice1.dll
+D:\Algorithm_practice\HomeWork2\Practice1\bin\Debug\net7.0\Practice1.pdb
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\Practice1.dll
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\refint\Practice1.dll
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\Practice1.pdb
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\Practice1.genruntimeconfig.cache
+D:\Algorithm_practice\HomeWork2\Practice1\obj\Debug\net7.0\ref\Practice1.dll
